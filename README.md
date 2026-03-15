@@ -29,3 +29,4 @@ scp -i ~/.ssh/<your pem file> <your pem file> ec2-user@<terraform instance publi
 chmod 400 <your pem file>
 ```
 
+
